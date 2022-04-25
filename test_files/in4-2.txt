@@ -1,0 +1,15 @@
+# This is a test for comments.
+# This comment should be over
+already
+############################
+#| This block comment is on one line. |#
+#| This blcok comment
+spans two lines |#
+#| This block comment has a | in it |#
+#| This block comment has a # in it |#
+#| continuous |##| block |##| comments |#
+#|||||||||||||||||||||||||||||||||||||||#
+#|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||
