@@ -1,0 +1,14 @@
+Test1:
+'This is a string'
+Test2:
+'This isn''t two strings'
+Test4:
+'This string has text after'text
+Test5:
+'This string spans
+onto multiple lines,
+but that''s fine.'
+Test6:
+'This string 
+never
+ends...
